@@ -5,3 +5,20 @@ h3 {
 h1 {
   margin-bottom: 0;
 }
+.byline {
+  font-size: 13px;
+  color: #d3d3d3;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.heading {
+  font-size: 20px;
+  margin-bottom: 0;
+}
+a {
+  color: #BF5700;
+}
+.description {
+    margin-top: 0;
+}
