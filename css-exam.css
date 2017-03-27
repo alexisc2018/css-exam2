@@ -22,3 +22,23 @@ a {
 .description {
     margin-top: 0;
 }
+.Pulitzer {
+  background-color: #C0C0C0;
+  padding: 20px;
+}
+.Pulitzerheading {
+  font-size: 25px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.Pulitzerbyline {
+  font-size: 15px;
+  color: #d3d3d3;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.Pulitzerdescription {
+  margin-top: 0;
+  margin-bottom: 0;
+}
